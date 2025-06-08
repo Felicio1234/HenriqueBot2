@@ -1,0 +1,5 @@
+name: henriquebot
+version: 1.0.0
+dependencies:
+  flutter:
+    sdk: flutter
